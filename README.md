@@ -8,8 +8,6 @@ A modern, responsive portfolio website showcasing Samuel Koyo's skills, backgrou
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [License](#license)
 - [Contact](#contact)
 
