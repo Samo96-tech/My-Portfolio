@@ -1,89 +1,69 @@
-##🌐 Samuel Koyo's Portfolio Website
-Welcome to the personal portfolio website of Samuel Koyo, a final-year student pursuing a Bachelor of Commerce (Finance) at the University of Nairobi, and a Software Engineering student at PLP Academy. This portfolio highlights his technical skills, academic background, personal projects, and professional aspirations.
+# 🌐 Samuel Koyo's Portfolio Website
 
-🚀 Live Demo: View Portfolio
+Welcome to the personal portfolio website of **Samuel Koyo**, a final-year student pursuing a Bachelor of Commerce (Finance) at the **University of Nairobi**, and a Software Engineering student at **PLP Academy**. This portfolio highlights his technical skills, academic background, personal projects, and professional aspirations.
 
-###✨ Features
-Hero Section
+🚀 **Live Demo**: [View Portfolio](https://v0-samuel-koyo-portfolio-8jytjs.vercel.app)
 
-Professional photo & short intro
+---
 
-CV download button
+## ✨ Features
 
-Contact call-to-action
+- **Hero Section**
+  - Professional photo & short intro
+  - CV download button
+  - Contact call-to-action
 
-###About Section
+- **About Section**
+  - A brief narrative of Samuel’s background and passion for tech and finance
 
-A brief narrative of Samuel’s background and passion for tech and finance
+- **Skills Section**
+  - Programming: JavaScript, Python, Java
+  - Finance: Financial Analysis, Risk Management
+  - Tools: Git, React, Next.js, TailwindCSS
 
-###Skills Section
+- **Education**
+  - 🎓 University of Nairobi – B.Com (Finance)
+  - 💻 PLP Academy – Software Engineering
 
-Programming: JavaScript, Python, Java
+- **Projects**
+  - **Personal Finance Dashboard**
+    - Expense tracking, budget visualization
+    - Charts and secure data handling
+  - **Investment Portfolio Analyzer**
+    - Risk analysis and portfolio performance
+    - Real-time financial data
 
-Finance: Financial Analysis, Risk Management
+- **Interests**
+  - Exploring how software can revolutionize financial analysis and accessibility
+  - Passion for FinTech and data-driven decision-making
 
-Tools: Git, React, Next.js, TailwindCSS
+- **Contact Section**
+  - Email: [koyosamuel96@gmail.com](mailto:koyosamuel96@gmail.com)
+  - WhatsApp: +254 700 883620
+  - GitHub: [Samo96-tech](https://github.com/Samo96-tech)
+  - LinkedIn: [Samuel Koyo](https://www.linkedin.com/in/samuel-koyo-83000b245/)
 
-###Education
+- **Additional**
+  - Fully responsive (mobile-friendly)
+  - Smooth scroll and clean UI
+---
 
-🎓 University of Nairobi – B.Com (Finance)
+## 🛠️ Built With
 
-💻 PLP Academy – Software Engineering
+- [Next.js](https://nextjs.org/)
+- [shadcn/ui](https://ui.shadcn.com/)
+- TailwindCSS
+- TypeScript
+- Deployed on [Vercel](https://vercel.com)
 
-###Projects
+---
 
-Personal Finance Dashboard
+## 📁 How to Run Locally
 
-Expense tracking, budget visualization
-
-Charts and secure data handling
-
-Investment Portfolio Analyzer
-
-Risk analysis and portfolio performance
-
-Real-time financial data
-
-###Interests
-
-Exploring how software can revolutionize financial analysis and accessibility
-
-Passion for FinTech and data-driven decision-making
-
-###Contact
-For any questions or feedback, please contact:
-
-Samuel Koyo
-
-Email: Koyosamuel96@gmail.com
-
-GitHub: https://github.com/Samo96-tech
-
-LinkedIn: https://www.linkedin.com/in/sa
-
-###Additional
-
-Fully responsive (mobile-friendly)
-
-Smooth scroll and clean UI
-
-Wikipedia-sourced images related to finance and development
-
-🛠️ Built With
-Next.js
-
-shadcn/ui
-
-TailwindCSS
-
-TypeScript
-
-###Deployed on Vercel
-
-
-
-
-
-
+```bash
+git clone https://github.com/Samo96-tech/portfolio-website.git
+cd portfolio-website
+npm install
+npm run dev
 
 
