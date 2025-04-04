@@ -1,60 +1,54 @@
-# My-Portfolio
+🌐 Samuel Koyo's Portfolio Website
+Welcome to the personal portfolio website of Samuel Koyo, a final-year student pursuing a Bachelor of Commerce (Finance) at the University of Nairobi, and a Software Engineering student at PLP Academy. This portfolio highlights his technical skills, academic background, personal projects, and professional aspirations.
 
-# Samuel Koyo's Portfolio Website
+🚀 Live Demo: View Portfolio
 
-A modern, responsive portfolio website showcasing Samuel Koyo's skills, background, and achievements. Built with [Next.js](https://nextjs.org/) and [shadcn/ui](https://ui.shadcn.com/), the site provides a professional look and user-friendly experience.
+✨ Features
+Hero Section
 
-## Table of Contents
+Professional photo & short intro
 
-- [Overview](#overview)
-- [Features](#features)
-- [License](#license)
-- [Contact](#contact)
+CV download button
 
-## Overview
+Contact call-to-action
 
-This project is a portfolio website designed to highlight Samuel Koyo's professional journey. It features a clean, modern design with smooth navigation and responsiveness across all device sizes. The website includes sections such as Hero, About, Skills, Education, Projects, Interests, and Contact.
+About Section
 
-## Features
+A brief narrative of Samuel’s background and passion for tech and finance
 
-### 1. Hero Section
-- Professional introduction with a prominent profile photo
-- Quick access to the contact section and CV download
+Skills Section
 
-### 2. About Section
-- Brief introduction highlighting Samuel's background and aspirations
-- Clean, readable text summarizing his professional journey
+Programming: JavaScript, Python, Java
 
-### 3. Skills Section
-- Organized display of programming languages (JavaScript, Python, Java, etc.)
-- Finance skills (Financial Analysis, Budgeting, Risk Management, etc.)
-- Additional development tools and skills
+Finance: Financial Analysis, Risk Management
 
-### 4. Education Section
-- University of Nairobi - Bachelor of Commerce in Finance
-- PLP Academy - Software Engineering
+Tools: Git, React, Next.js, TailwindCSS
 
-### 5. Projects Section
-- Personal Finance Dashboard with detailed description
-- Investment Portfolio Analyzer with key features
-- GitHub links for viewing projects
+Education
 
-### 6. Interests Section
-- Highlights Samuel's passion for combining financial analytics with technology
-- Lists specific areas of interest in the tech field
+🎓 University of Nairobi – B.Com (Finance)
 
-### 7. Contact Section
-- Contact form for potential employers or collaborators
-- Direct contact information (email, phone, GitHub, LinkedIn)
+💻 PLP Academy – Software Engineering
 
-### 8. Additional Features
-- Responsive design for all device sizes
-- Smooth scrolling navigation
-- Downloadable CV button
-- Professional color scheme and typography
+Projects
 
-###License
-This project is licensed under the MIT License. See the LICENSE file for details.
+Personal Finance Dashboard
+
+Expense tracking, budget visualization
+
+Charts and secure data handling
+
+Investment Portfolio Analyzer
+
+Risk analysis and portfolio performance
+
+Real-time financial data
+
+Interests
+
+Exploring how software can revolutionize financial analysis and accessibility
+
+Passion for FinTech and data-driven decision-making
 
 ###Contact
 For any questions or feedback, please contact:
@@ -66,6 +60,44 @@ Email: Koyosamuel96@gmail.com
 GitHub: https://github.com/Samo96-tech
 
 LinkedIn: https://www.linkedin.com/in/sa
+
+Additional
+
+Fully responsive (mobile-friendly)
+
+Smooth scroll and clean UI
+
+Wikipedia-sourced images related to finance and development
+
+🛠️ Built With
+Next.js
+
+shadcn/ui
+
+TailwindCSS
+
+TypeScript
+
+Deployed on Vercel
+
+📁 How to Run Locally
+bash
+Copy code
+git clone https://github.com/Samo96-tech/portfolio-website.git
+cd portfolio-website
+npm install
+npm run dev
+Open http://localhost:3000 in your browser.
+
+📎 Resources Used
+Finance illustration: Wikipedia - Finance
+
+HTML5 icon: Wikipedia - HTML5
+
+📄 Download Samuel’s CV
+Download PDF
+
+
 
 
 
